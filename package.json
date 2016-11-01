@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Implementação de vários frameworks de teste para aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "author": "Gianpaulo M. Soares",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
